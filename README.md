@@ -1,2 +1,2 @@
-# bpost-learning-react-components
-https://wp.me/p7uERY-gA
+# Learning React - Components
+Related blog post can be found [here](http://codereform.com/blog/post/learning-react-components-and-state/)
